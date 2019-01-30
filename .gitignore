@@ -23,6 +23,6 @@
 hs_err_pid*
 .idea/
 cas-server.iml
-overlays/org.apereo.cas.cas-server-webapp-tomcat-5.3.7/WEB-INF/classes/
 build/
 target/
+overlays/org.apereo.cas.cas-server-webapp-tomcat-5.3.7/WEB-INF/classes/
