@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^https://b.thqtest.com:8442",
+  "name" : "client",
+  "id" : 10000004,
+  "description" : "client2",
+  "evaluationOrder" : 10004
+}
